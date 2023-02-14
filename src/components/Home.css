@@ -1,0 +1,142 @@
+#home{
+    width: 573px;
+    height: 600px;
+    overflow: scroll;
+    background-color: white;
+}
+
+#home::-webkit-scrollbar {
+    display: none; /* 크롬, 사파리, 오페라, 엣지 */
+}
+
+
+#home h1{
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 23px;
+    margin-left: 15px;
+}
+
+
+#home h1:first-child{
+margin-top: 50px;
+}
+
+
+
+#home>ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(249, 237, 224);
+}
+
+#home>ul>li{
+border-right: 1px solid black;
+}
+
+#home>ul>li:last-child{
+border-right: none;
+}
+
+
+
+#home>ul>li>button{
+    width: 143px;
+    border:none ;
+    height: 50px;
+    background-color: rgb(249, 237, 224);
+
+}
+
+#home>ul>li>button a{
+    display: block;
+    line-height: 50px;
+}
+
+
+
+#show{
+    width: 573px;
+    overflow: hidden;
+    margin-bottom: 50px;
+}
+
+#show>ul{
+    width: 2292px;
+    display: flex;
+}
+#show>ul>li{
+    width: 573px;
+    /* display: flex; */
+    /* li에 필요 없을 것 같아서 뺌 */
+    /* align-items: center; */
+}
+#show>ul>li>a>img{
+    width: 573px;
+    height: 330px;
+    cursor:initial;
+}
+
+/* #show>ul>li>div{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#show>ul>li>div>dl>dt>h3>span{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+필요없어서 뺌
+ */
+
+#sale{
+    margin-bottom: 60px;
+}
+#sale>ul{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+#sale>ul>li{
+}
+#sale>ul>li>a{}
+#sale>ul>li>a>img{
+    width:286.5px;
+    height: 230px;
+}
+
+#youtube{
+    margin-bottom: 70px;
+
+}
+#youtube>ul{}
+#youtube>ul>li{}
+#youtube>ul>li>a{}
+#youtube>ul>li>a>img{
+    width: 573px;
+    height: 350px;
+}
+
+
+
+
+#hot{
+margin-bottom: 100px;
+}
+#hot>ul{
+display: flex;
+}
+#hot>ul>li{
+    width: 50%;
+}
+#hot>ul>li>a{}
+#hot>ul>li>a>img{
+    width:286.5px;
+    height: 270px;
+
+}

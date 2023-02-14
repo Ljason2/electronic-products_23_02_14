@@ -1,0 +1,77 @@
+#boxCart1{
+    width: 573px;
+    height: 600px;
+    overflow: scroll;
+    background-color: white;
+}
+
+#boxCart1::-webkit-scrollbar {
+    display: none; /* 크롬, 사파리, 오페라, 엣지 */
+}
+
+
+#boxCart1>h3{
+    margin-top: 50px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    margin-bottom: 40px;
+}
+
+
+#boxCart1>div#boxCart2{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    justify-content: space-around;
+
+}
+
+
+#boxCart1>div#boxCart2>figure{
+    border: 1px solid rgb(134, 132, 132);
+    box-sizing: border-box;
+    text-align: center;
+    margin: 0 0 1em;
+    padding: 10px;
+}
+
+
+#boxCart1>div#boxCart2>figure>img{
+    width: 230px;
+    height: 230px;
+    margin-bottom: 10px;
+}
+
+#boxCart1>div#boxCart2>figure>figcaption>dl>dt{
+    margin-bottom: 10px;
+}
+
+
+#boxCart1>div#boxCart2>figure>figcaption>dl>dd{
+    margin-bottom: 10px;
+}
+
+#allClear{
+    margin: 0 auto;
+    text-align: center;
+    font-size: 24px;
+
+}
+
+#allClear>p{
+    margin-bottom: 30px;
+
+}
+
+
+#allClear>div{
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    box-sizing: border-box;
+    color: #333;
+    border: 2px solid #ddd;
+    margin-bottom: 218px;
+}

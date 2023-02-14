@@ -1,0 +1,31 @@
+footer{
+    background-color: #646060;
+    padding: 20px;
+    width: 573px;
+    color: white;
+    
+}
+
+footer>small>dl>dd:first-child{
+font-size: 15px;
+font-weight: bold;
+}
+
+footer>small>dl>dd:nth-child(2)>span{
+    font-weight: bold;
+
+}
+
+footer>small>dl dd{
+    margin-bottom: 10px;
+    font-size: 12px;
+}
+
+footer>small>dl>dd:last-child>span{
+font-size: 12px;
+font-weight: bold;
+}
+
+footer>small>dl>dd:last-child>u{
+    color:white;
+}

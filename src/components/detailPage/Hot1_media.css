@@ -1,0 +1,38 @@
+@media screen and (max-width:/* 654px */ 1000px){
+    #Hot1{
+        width: 100%;
+        height: 100%;
+    }
+    
+    
+    
+    #Hot1>div {
+        margin: 0 auto 242px;
+    }
+
+
+    #Hot1>div>figure{
+    width: 40%;
+    height: 50%;
+    }
+
+
+    #Hot1>div>figure>img{
+    width: 95%;
+    height: 60%;
+    }
+
+
+    footer{
+        width: 100%;
+        text-align: center;
+    }
+    
+
+    @media screen and (max-width:600px){
+        #Hot1>div>figure{
+        width: 70%;
+        height: 100%;    
+        }
+    }
+    }

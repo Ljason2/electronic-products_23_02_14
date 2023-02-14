@@ -1,0 +1,22 @@
+
+@media screen and (max-width:/* 654px */ 1000px){
+
+    #boxHome{
+        width:100%;
+        height: 100%;
+    }
+    
+    
+    #boxHome>div>figure>img{
+        width: auto;
+        height: auto;
+    }
+    
+    footer{
+        width: 100%;
+        text-align: center;
+    }
+
+
+}
+

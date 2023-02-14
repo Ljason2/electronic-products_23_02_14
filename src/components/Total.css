@@ -1,0 +1,51 @@
+#boxHome{
+    width: 573px;
+    height: 600px;
+    overflow: scroll;
+    background-color: white;
+}
+
+#boxHome::-webkit-scrollbar {
+    display: none; /* 크롬, 사파리, 오페라, 엣지 */
+}
+
+
+#boxHome>h3{
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 50px;
+}
+
+#boxHome>div{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    justify-content: space-around;
+    padding-top: 50px;
+}
+
+
+#boxHome>div>figure{
+    border: 1px solid rgb(134, 132, 132);
+    box-sizing: border-box;
+    text-align: center;
+    margin: 0 0 1em;
+    padding: 10px;
+}
+
+
+#boxHome>div>figure>img{
+    width: 230px;
+    height: 230px;
+    margin-bottom: 10px;
+}
+
+#boxHome>div>figure>figcaption>dl>dt{
+    margin-bottom: 10px;
+}
+
+
+#boxHome>div>figure>figcaption>dl>dd{
+    margin-bottom: 10px;
+}

@@ -1,0 +1,52 @@
+#Rec1{
+    width: 573px;
+    height: 600px;
+    overflow: scroll;
+    background-color: white;
+}
+
+#Rec1::-webkit-scrollbar {
+    display: none; /* 크롬, 사파리, 오페라, 엣지 */
+}
+
+#Rec1>h3{
+    font-size: 30px;    
+    font-weight: bold;
+    text-align: center;
+    margin-top: 50px;
+    
+}
+
+#Rec1>div{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    justify-content: space-around;
+    padding-top: 50px;
+}
+
+
+#Rec1>div>figure{
+    border: 1px solid rgb(134, 132, 132);
+    box-sizing: border-box;
+    text-align: center;
+    margin: 0 0 1em;
+    padding: 10px;
+    margin-bottom: 100px;
+}
+
+
+#Rec1>div>figure>img{
+    width: 230px;
+    height: 230px;
+    margin-bottom: 10px;
+}
+
+#Rec1>div>figure>figcaption>dl>dt{
+    margin-bottom: 10px;
+}
+
+
+#Rec1>div>figure>figcaption>dl>dd{
+    margin-bottom: 10px;
+}

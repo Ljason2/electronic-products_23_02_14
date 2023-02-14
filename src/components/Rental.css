@@ -1,0 +1,291 @@
+#rental{
+    width: 573px;
+    height: 600px;
+    overflow: scroll;
+    background-color: white;
+}
+
+#rental::-webkit-scrollbar {
+    display: none; /* 크롬, 사파리, 오페라, 엣지 */
+}
+
+
+article{
+    width: 90%;
+    margin: 50px auto 0;
+    padding: 20px;
+    box-sizing: border-box;
+    border-radius:7px;
+    border:1px double gray;
+    margin-bottom: 50px;
+}
+
+
+#search{
+    margin: 0 auto 50px;
+    width: 90%;
+    padding: 20px;
+    margin-bottom:20px;
+    border: 1px solid gray;
+    border-radius:7px;
+}
+
+
+#search>div{
+    display: flex;
+    align-items: center;
+    padding: 0 10px;
+    position: relative;
+}
+
+#search>div>input{
+    border: rgb(8, 39, 219);
+    line-height: 30px;
+    width: 40%;
+    text-indent: 20px;
+    font-size: 20px;
+    border-radius:7px;
+    margin-right: 6px;
+}
+
+#search>div>button#searchButton{
+    line-height: 32px;
+    width: 24%; 
+    color: black;
+    height: 100%;
+    font-size: 20px;
+    border-radius:7px;
+    text-shadow: 1px 1px 1px black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    margin-right: 70px;
+}
+
+#search>div>button#listSort{
+    position: absolute;
+    right: 0;
+    top: 0%;
+    border: none;
+    background-color: gray;
+    width: 15%; 
+    color: #fff;
+    height: 100%;
+    font-size: 25px;
+    border-radius:7px;
+}
+
+#search>div>ul{
+    position: absolute;
+    right: 1px; top: 27px;
+    width: 20%;
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid rgb(14, 194, 203);
+    z-index: 100;
+    border-radius: 7px;
+    color: black;
+}
+
+#search>div>ul>li{
+    padding: 10px;
+    border-bottom: 1px solid rgb(14, 194, 203);
+}
+
+#search>div>ul>li:last-child{
+    border-bottom: none;
+}
+
+
+article>#appoint>h3{
+    margin-top: 30px;
+    font-size: 33px;
+    margin-bottom: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:  yellowgreen; 
+    text-shadow: 2px 2px 3px black;
+
+}
+
+#appoint{
+    width: 90%;
+    height: 100%;
+    margin: 0 auto 50px;
+    border-radius:7px;
+    border:1px solid gray ;
+    padding: 20px;
+}
+
+#appoint>h4{
+    padding: 10px 20px;
+    margin-bottom: 25px;
+    background-color: gray;
+    color: #fff;
+    cursor: pointer;
+    border-radius:7px;
+    font-size: 25px;
+    text-shadow: 2px 2px 2px black;
+    display: flex;
+    align-items: center;
+}
+
+
+#appoint>h4>span{
+    margin-right: 5px;
+}
+
+#appoint>ul{
+    padding:0 0 20px 0px;
+    border-radius:7px;
+}
+
+#appoint>ul>li{
+    display: flex;
+    margin-bottom: 15px;
+    align-items: center;
+}
+
+#appoint>ul>li label{
+    font-size: 15px;
+    display: flex;
+    align-items: center;
+    margin-right: 10px;
+}
+
+
+#appoint>ul>li label>div{
+    margin-right: 10px;
+}
+
+
+#appoint>ul>li input{
+    border-radius: 8px;
+}
+
+#appoint>ul>li textarea{
+    border-radius: 8px;
+
+}
+
+
+
+#appoint>ul>li>label{
+    width: 24%;
+}
+
+#appoint>ul>li>input, #appoint>ul>li>textarea{
+    width: 80%;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+#appoint>p>button{
+    width: 100%;
+    box-sizing: border-box;
+    border: none;
+    padding: 10px 0;
+    background-color: gray;
+    color: #fff;
+    border-radius:7px;
+    font-size: 25px;
+}
+
+
+#list{
+    width: 90%;
+    padding: 0 20px;
+    border: 1px solid gray;
+    border-radius:7px;
+    background-color: white;
+    margin: 0 auto;
+}
+
+
+#list>h3{
+    margin-top: 30px;
+    font-size: 33px;
+    margin-bottom: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: yellowgreen; 
+    text-shadow: 2px 2px 3px black;
+
+}
+
+
+#list ul{
+    background-color: white;
+    border-radius:7px;
+}
+
+
+#list ul>li{
+    border-bottom: 1px solid black ;
+    padding: 20px 20px; 
+}
+
+#list ul>li:last-child{
+    border-bottom: none;
+
+}
+
+#list ul>li>dl{
+    width: 100%;
+    border-radius:7px;
+}
+
+#list ul>li>dl>dt{
+font-size: 15px;
+color: black;
+margin-bottom: 20px;
+display: flex;
+align-items: center;
+}
+
+#list ul>li>dl>dt>div{
+    margin-right: 6px;
+}
+
+
+#list ul>li>dl>dd>dfn{
+    font-size: 19px;
+    padding-right: 10px;
+    margin-bottom: 10px;
+    color:rgb(8, 39, 219);
+}
+
+#list ul>li>dl>dd{
+    padding-bottom: 20px;
+    color: black;
+    display: flex;
+    align-items: center;
+    font-size: 15px;
+}
+
+#list ul>li>dl>dd>div{
+    margin-right: 6px;
+}
+
+
+#list ul>li>dl>dd.date{
+}
+
+
+
+#list ul>li>button{
+    width: 100%; height: 40px;
+    background-color: #9f3434;
+    color: #fff;
+    border: none;
+    font-size: 20px;
+    border-radius:7px;
+    cursor: pointer;
+}
+
+
+
+

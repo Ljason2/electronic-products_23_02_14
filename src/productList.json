@@ -1,0 +1,260 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "DD모터세탁기",
+      "detail": "통이 돌아서 빨래가 잘되는 진짜 통돌이",
+      "price": "993,000원",
+      "imageUrl": "./images/one.jpg"
+    },
+    {
+      "id": "2",
+      "name": "비스포크냉장고",
+      "detail": "더 깔끔하고 넓어보이는 정돈된 내상 플랫 엣지 디자인",
+      "price": "1,695,000원",
+      "imageUrl": "./images/two.jpg"
+    },
+    {
+      "id": "3",
+      "name": "TCL티비",
+      "detail": "스탠드/벽걸이구분 설치지원방식",
+      "price": "2,300,000원",
+      "imageUrl": "./images/three.jpg"
+    },
+    {
+      "id": "4",
+      "name": "CRP밥솥",
+      "detail": "2018 신모델 스테디셀러 디자인",
+      "price": "58,000원",
+      "imageUrl": "./images/four.jpg"
+    },
+    {
+      "id": "5",
+      "name": "제스파레그라이너 발마사지",
+      "detail": "5단계 강도조절 가능 에어셀 공기압 마사지",
+      "price": "32,000원",
+      "imageUrl": "./images/five.jpg"
+    },
+    {
+      "id": "6",
+      "name": "아이닉차이슨 청소기",
+      "detail": "무선 청소기 i30UV 지원방식",
+      "price": "328,000원",
+      "imageUrl": "./images/six.jpg"
+    },
+    {
+      "id": "7",
+      "name": "BESPOKE 직화오븐",
+      "detail": "겉은 바삭하고, 속은 촉촉하게 직화열풍",
+      "price": "55,000원",
+      "imageUrl": "./images/seven.jpg"
+    },
+    {
+      "id": "8",
+      "name": "안방 전기그릴",
+      "detail": "연기먹는 전기그릴",
+      "price": "158,000원",
+      "imageUrl": "./images/eight.jpg"
+    },
+    {
+      "id": "9",
+      "name": "웰쿡 멀티쿠커",
+      "detail": "편리한 온도조절, 대용량, 넌스틱코팅",
+      "price": "35,000원",
+      "imageUrl": "./images/nine.jpg"
+    },
+    {
+      "id": "10",
+      "name": "BSW 계란찜기",
+      "detail": "간단한 동작 버튼 누구나 조작가능",
+      "price": "20,000원",
+      "imageUrl": "./images/ten.jpg"
+    },
+    {
+      "id": "11",
+      "name": "CT토스터",
+      "detail": "감성 디자인, 빵데우기, 간편조작",
+      "price": "18,000원",
+      "imageUrl": "./images/eleven.png"
+    },
+    {
+      "id": "12",
+      "name": "반반 멀티 전기그릴",
+      "detail": "스마트베리 K 그릴 전용 뚜껑",
+      "price": "19,000원",
+      "imageUrl": "./images/twelve.png"
+    },
+    {
+      "id": "13",
+      "name": "필립스 헤어드라이기",
+      "detail": "6가지 속도 및 온도설정 가능",
+      "price": "34,000원",
+      "imageUrl": "./images/thirteen.png"
+    },
+    {
+      "id": "14",
+      "name": "신일 6단 식품 건조기",
+      "detail": "하이 트레이 2단과 일반 트레이 4단 구성",
+      "price": "129,000원",
+      "imageUrl": "./images/fourteen.jpg"
+    },
+    {
+      "id": "15",
+      "name": "델키 대용량 전기튀김기",
+      "detail": "최대 190도까지 온도 조절가능",
+      "price": "56,000원",
+      "imageUrl": "./images/fifteen.jpg"
+    },
+    {
+      "id": "16",
+      "name": "발뮤다 더 토스터",
+      "detail": "다이얼 5CC 급수 가능 모드 표시",
+      "price": "27,000원",
+      "imageUrl": "./images/sixteen.jpg"
+    },
+    {
+      "id": "17",
+      "name": "핸디형 스탠드 스팀다리미",
+      "detail": "15초 짧은 예열, 완벽한 스팀효과, 편의성 높은 디자인",
+      "price": "39,000원",
+      "imageUrl": "./images/seventeen.jpg"
+    },
+    {
+      "id": "18",
+      "name": "태팔 바비큐 그릴",
+      "detail": "스마트베리 K 그릴 전용 뚜껑",
+      "price": "29,000원",
+      "imageUrl": "./images/eighteen.jpg"
+    },
+    {
+      "id": "19",
+      "name": "올스텐 에어프라이어",
+      "detail": "스테인리스 열선 보호망으로 더 안전하게 사용가능",
+      "price": "44,000원",
+      "imageUrl": "./images/ninteen.jpg"
+    },
+    {
+      "id": "20",
+      "name": "티타늄 믹서기",
+      "detail": "티타늄으로 되어 강하고, 초강력 모터를 채용, 2단 속도조절",
+      "price": "61,000원",
+      "imageUrl": "./images/twenty.jpg"
+    },
+    {
+      "id": "21",
+      "name": "오일팬히터",
+      "detail": "무게 8kg, 백색등유사용, 연소유지시간 16시간",
+      "price": "293,000원",
+      "imageUrl": "./images/twentyone.jpg"
+    },
+    {
+      "id": "22",
+      "name": "광파오븐",
+      "detail": "에어프라이+오븐+그릴+전자레인지+간편식 가능",
+      "price": "51,000원",
+      "imageUrl": "./images/twentytwo.jpg"
+    },
+    {
+      "id": "23",
+      "name": "에어쉐프 에어프라이어",
+      "detail": "22L 특대용량, 뜨거운 바람이 순환하여 골고루 데워주는 컨벡션 기능, 자동회전 기능",
+      "price": "43,000원",
+      "imageUrl": "./images/twentythree.jpg"
+    },
+    {
+      "id": "24",
+      "name": "ANT 비데",
+      "detail": "초슬림 방수비데, 하이브리드 절전모드, 간편한 원터치",
+      "price": "67,000원",
+      "imageUrl": "./images/twentyfour.jpg"
+    },
+    {
+      "id": "25",
+      "name": "잔치팬",
+      "detail": "다이아몬드+마블 코팅, 부분 유리뚜껑, 기름제거 기름유도부",
+      "price": "16,000원",
+      "imageUrl": "./images/twentyfive.jpg"
+    },
+    {
+      "id": "26",
+      "name": "DIOS 전자레인지",
+      "detail": "인버터 시스템, 마그네트론 방식, 더 빨라진 조리시간",
+      "price": "60,000원",
+      "imageUrl": "./images/twentysix.jpg"
+    },
+    {
+      "id": "27",
+      "name": "레트로 에어프라이어",
+      "detail": "스테인리스 100%, 상하부, 이중열선, 대용량 21L, 상하 듀얼히팅 열선",
+      "price": "27,000원",
+      "imageUrl": "./images/twentyseven.jpg"
+    },
+    {
+      "id": "28",
+      "name": "쿠킨 직화 구이기",
+      "detail": "세라믹 필터, 30분 타이머, 투시창, 안전을 고려한 재질및 설계",
+      "price": "34,000원",
+      "imageUrl": "./images/twentyeight.jpg"
+    },
+    {
+      "id": "29",
+      "name": "메디니스 각탕기",
+      "detail": "기포가 두들겨 주는 버블스파, 미세 온도조절, 폭 넓고 깊은 욕조",
+      "price": "28,000원",
+      "imageUrl": "./images/twentynine.jpg"
+    },
+    {
+      "id": "30",
+      "name": "홈플래닛 전기레인지",
+      "detail": "2000W 강한화력, 터치조작부, 240분 타이머 설정, 6가지 조리모드",
+      "price": "63,000원",
+      "imageUrl": "./images/thirty.jpg"
+    },
+    {
+      "id": "31",
+      "name": "그랑데 건조기",
+      "detail": "쾌속하고 빠른 건조가 가능하고, 신기술 도입으로 더욱 청결하게!",
+      "price": "992,000원",
+      "imageUrl": "./images/thirtyone.jpg"
+    },
+    {
+      "id": "32",
+      "name": "브리츠 사운드바",
+      "detail": "BAR 타입의 스피커, 정격출력 6W의 유닛을 탑재, USB 포트에 연결가능",
+      "price": "21,900원",
+      "imageUrl": "./images/thirtytwo.jpg"
+    },
+    {
+      "id": "33",
+      "name": "캐리어 클라윈드 냉장고",
+      "detail": "심플하고 모던한 감성의 엣지핸들 디자인, 반영구적인 UV 청정제균",
+      "price": "939,000원",
+      "imageUrl": "./images/thirtythree.jpg"
+    },
+    {
+      "id": "34",
+      "name": "마하 하이파이 사운드바",
+      "detail": "블루투스5.0 시계와 알람, TF카드지원, 무선 리모컨, 4D 입체사운드 ,140W급 출력",
+      "price": "89,000원",
+      "imageUrl": "./images/thirtyfour.jpg"
+    },
+    {
+      "id": "35",
+      "name": "미닉스 미니건조기",
+      "detail": "누적 판매율 1위, 3kg 적재가능, 다용도 건조기, 신기술 채택",
+      "price": "938,000원",
+      "imageUrl": "./images/thirtyfive.jpg"
+    },
+    {
+      "id": "36",
+      "name": "오브제 컬렉션 전자레인지",
+      "detail": "그릴로 바삭하게 복합조리, 노오븐 베이킹, 세련된 디자인",
+      "price": "148,000원",
+      "imageUrl": "./images/thirtysix.jpg"
+    }
+
+
+
+
+  ]
+}
