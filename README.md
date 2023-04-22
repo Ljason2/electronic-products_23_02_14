@@ -8,7 +8,7 @@
     2023. 02. 10 ~ 2023. 02. 17
 
 ## :computer:디바이스
-    PC, MOBILE, TABLET 
+    PC, TABLET, MOBILE 
 
 
 ## :lips:개발언어
