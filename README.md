@@ -1,70 +1,94 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# 전자마왕 프로젝트
 
-In the project directory, you can run:
+## :star:사이트 소개
+    사용자가 다양한 가전제품들을 구매할 수 있고, 가전렌탈 예약 서비스를 통해 편안한 삶의 질을 보장받을 수 있는 웹 서비스 개발
+## :date:일정
+    2023. 02. 10 ~ 2023. 02. 17
 
-### `npm start`
+## :computer:디바이스
+    PC, MOBILE, TABLET 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## :lips:개발언어
+- Redux, React, JavaScript, CSS3, JQuery, HTML5
 
-### `npm test`
+<img src="https://jason-img.s3.amazonaws.com/mdoc/Redux.png" style="width:110px"> <img src="https://jason-img.s3.amazonaws.com/mdoc/react.png" style="width:100px"> <img src="https://jason-img.s3.amazonaws.com/mdoc/js.png" style="width:56px"> <img src="https://jason-img.s3.amazonaws.com/mdoc/css.png" style="width:56px"> <img src="https://jason-img.s3.amazonaws.com/mdoc/jquery2.jpg" style="width:56px"> <img src="https://jason-img.s3.amazonaws.com/mdoc/html5.png" style="width:56px">
+## :earth_americas:개발환경
+- VScode, npm, Node.js, AWS
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<img src="https://jason-img.s3.amazonaws.com/mdoc/vscode.png" style="width:90px"><img src="https://jason-img.s3.amazonaws.com/mdoc/npm2.png" style="width:60px; margin-left:3px;">
+<img src="https://jason-img.s3.amazonaws.com/mdoc/nodejs.png" style="width:91px"> <img src="https://jason-img.s3.amazonaws.com/mdoc/aws.png" style="width:110px">
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## :link:배포링크
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- 배포방식은 AWS: S3의 배포방식을 이용하였습니다.
+- [바로가기](https://jason-electronic-products-02-14.s3.amazonaws.com/index.html)
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## :clipboard:프로젝트 설명
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+ #### 반응형 사이트 개발
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+1. 반응형 사이트로서 웹, 태블릿, 모바일에서 작동할 수 있는 홈페이지를 개발.
+    
+        가변그리드와 미디어쿼리를 사용하여 웹, 태블릿, 모바일에서 작동할 수 있는 홈페이지를 개발하였음.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+#### 메인 페이지
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+1. JQuery 로 배너가 움직이는 슬라이드 기능을 개발.
 
-### Code Splitting
+        -작성 예정
+2. 사용자가 카테고리별 추천 상품, 오늘만 특가, 지금 가장 뜨는 상품을 볼 수 있고, 상품을 클릭하면 상품 상세페이지로 이동하는 기능을 개발.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+        -작성 예정
+3. 홈페이지 YOUTUBE 로 이동할 수 있는 기능 구현.
 
-### Analyzing the Bundle Size
+        -작성 예정
+        
+ 
+#### 전체상품, 추천상품, 오늘만 특가, 지금 가장 뜨는 상품 페이지
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+1.  장바구니를 담고 삭제할 수 있는 기능을 개발.
 
-### Making a Progressive Web App
+        -작성 예정
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+#### 장바구니 페이지
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+1.  개별 상품을 삭제하는 기능과 전체 상품을 삭제하는 모두 비우기 기능을 개발.
+    
+        -작성 예정
+2.  개별 상품을 삭제하는 기능과 전체 상품을 삭제하는 모두 비우기 기능을 개발.
+    
+        -작성 예정
 
-### Deployment
+#### 가전렌탈 페이지
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+1. 사용자가 가전렌탈 예약 서비스를 신청할 수 있는 기능을 개발.
 
-### `npm run build` fails to minify
+        -작성 예정
+2. 사용자가 가전렌탈 예약리스트를 보고, 검색하고, 정렬 및 삭제할 수 있는 기능을 개발.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+        -작성 예정
+
+
+## :pencil2:피드백
+
+### 느낀점
+
+
+
+
+- 가변그리드와 미디어쿼리를 이용한 반응형 사이트에 대한 숙련도를 더욱 높일 수 있어 좋았다.
+    
+
+- Redux를 쓰면서 장점으로는 상태관리에 있어 용이하다는 것과 단점으로는 작은 기능을 구현하려 해도 많은 코드의 양이 필요하다는 것을 느꼈다.
+
+
+- createAsyncThunk와 createSlice를 사용하여 Redux Toolkit만으로 비동기 처리를 쉽게 진행할 수 있다는 것을 느꼈다.
